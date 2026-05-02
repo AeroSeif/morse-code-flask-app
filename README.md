@@ -1,6 +1,6 @@
-# Morse Code Blinking Face App 👁️
+# Morse Code Blinking Face App 
 
-## 📌 Overview
+##  Overview
 
 This project is a Flask-based web application that converts user-input text into Morse code and visualizes it using an animated blinking face.
 
@@ -8,7 +8,7 @@ Each dot (`.`) and dash (`-`) is represented by short and long eye blinks, creat
 
 ---
 
-## 📷 Preview
+##  Preview
 
 ### Eyes Closed (Blinking)
 
@@ -20,7 +20,7 @@ Each dot (`.`) and dash (`-`) is represented by short and long eye blinks, creat
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Convert text into Morse code
 * Animated blinking visualization (dots and dashes)
@@ -30,7 +30,7 @@ Each dot (`.`) and dash (`-`) is represented by short and long eye blinks, creat
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python (Flask)
 * HTML
@@ -39,13 +39,13 @@ Each dot (`.`) and dash (`-`) is represented by short and long eye blinks, creat
 
 ---
 
-## ▶️ How to Run (Step-by-Step Guide)
+##  How to Run (Step-by-Step Guide)
 
 ### 1. Install Python
 
 * Download Python from: https://www.python.org/downloads/
 * During installation, make sure to check:
-  ✅ **"Add Python to PATH"**
+   **"Add Python to PATH"**
 
 ---
 
@@ -95,7 +95,6 @@ cd morse-code-flask-app
 pip install flask
 ```
 
-*(Optional – if requirements.txt is added later)*
 
 ```bash
 pip install -r requirements.txt
@@ -121,11 +120,11 @@ http://127.0.0.1:5000
 
 ---
 
-✅ You should now see the Morse Code Face app running with blinking animation.
+ You should now see the Morse Code Face app running with blinking animation.
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * Add Morse code sound (beep tones)
 * Reverse conversion (Morse → Text)
@@ -134,13 +133,13 @@ http://127.0.0.1:5000
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Seif**
-Aerospace Engineering Graduate
+Freelance Engineering & Data Projects 
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 * Inspired by the Morse Code system: https://en.wikipedia.org/wiki/Morse_code
