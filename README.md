@@ -16,7 +16,7 @@ Each dot (`.`) and dash (`-`) is represented by short and long eye blinks, creat
 
 ### Eyes Open
 
-![Open Eyes](preview-open-eyes.png)
+![Open Eyes](preview-opened-eyes.png)
 
 ---
 
