@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Morse Face</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Morse Code Face</h1>
+
+<form method="POST">
+    <input type="text" name="text" placeholder="Enter text..." required>
+    <button type="submit">Convert</button>
+</form>
+
+<p id="morse-output">{{ morse }}</p>
+
+<!-- Face -->
+<div class="face">
+    <div class="eye" id="left-eye"></div>
+    <div class="eye" id="right-eye"></div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

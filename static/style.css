@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+.face {
+    margin: 40px auto;
+    width: 200px;
+    height: 200px;
+    background: #ffe0bd;
+    border-radius: 50%;
+    position: relative;
+}
+
+.eye {
+    width: 30px;
+    height: 30px;
+    background: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 70px;
+}
+
+#left-eye {
+    left: 50px;
+}
+
+#right-eye {
+    right: 50px;
+}
+
+/* Blink animation */
+.blink {
+    height: 5px !important;
+}
