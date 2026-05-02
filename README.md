@@ -140,6 +140,3 @@ http://127.0.0.1:5000
 
 ---
 
-## Acknowledgements
-
-* Inspired by the Morse Code system: https://en.wikipedia.org/wiki/Morse_code
